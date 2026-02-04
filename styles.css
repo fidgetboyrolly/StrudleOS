@@ -1,5 +1,5 @@
 body {
-  background-image: href="/assets/background.png";
+  background-image: src="/assets/background.png";
   color: orange;
   padding: 20px;
   
