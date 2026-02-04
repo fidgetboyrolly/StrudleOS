@@ -1,0 +1,16 @@
+body {
+  background-color: blue;
+  color: orange;
+  padding: 20px;
+  
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+.annoucment {
+  border: 20px solid green;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+}
