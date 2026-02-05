@@ -14,7 +14,7 @@ p {
   color: #ffffff;
   text-align: center;
   background-color: darkBlue;
-  min-width: 100px;
+  min-width: 200px;
 }
 .annocment {
   border: 10px solid green;
@@ -22,5 +22,5 @@ p {
   color: #ffffff;
   text-align: center;
   background-color: darkBlue;
-  min-width: 100px;
+  min-width: 200px;
 }
