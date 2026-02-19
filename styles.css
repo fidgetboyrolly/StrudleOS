@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 p {
-  border: 10px solid green;
+  border: 10px solid cyan;
   font-size: 30px;
   color: #ffffff;
   text-align: center;
@@ -17,7 +17,7 @@ p {
   min-width: 200px;
 }
 .annocment {
-  border: 10px solid green;
+  border: 10px solid cyan;
   font-size: 30px;
   color: #ffffff;
   text-align: center;
