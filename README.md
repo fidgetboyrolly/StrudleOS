@@ -7,6 +7,7 @@ To install download the version of StrudleOS beta test electron app the extract 
 ### for windows
 open the StrudleOS.exe file
 ### for linux
+use start.sh
 
 # features
 below is a list of important features
