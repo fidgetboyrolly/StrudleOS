@@ -19,3 +19,6 @@ App in StrudleOS will have will hame two main types, currently the only supports
 the HTML app type is the most basic and the only supported apps type currently. the HTML app type is a HTML file stored under you ~apps/ folder. they are able to run offline by being put in a iFrame using Blobs.
 ### FCC app type
 the FCC app type is an app built from the native command system called Fidget Command Core it is not yet supported
+## FCC commands
+FCC commands follow a simple syntax @{engine or core} {target}.{action}/{flag}!{args}
+### cores
