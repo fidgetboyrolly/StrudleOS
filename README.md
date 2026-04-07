@@ -19,3 +19,6 @@ the FCC app type is an app built from the native command system called Fidget Co
 ## FCC commands
 FCC commands follow a simple syntax @{engine or core} {target}.{action}/{flag}!{args}
 ### cores
+
+cores is just the StrudleOS version of command languages
+
